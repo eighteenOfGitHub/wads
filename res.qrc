@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/URL.png</file>
+    <file>icons/关闭摄像头.png</file>
+    <file>icons/密码修改.png</file>
+    <file>icons/hfut.png</file>
+    <file>icons/项目.png</file>
+    <file>icons/大学.png</file>
+    <file>icons/账号.png</file>
+    <file>icons/电话.png</file>
+    <file>icons/contact.png</file>
+    <file>icons/邮箱.png</file>
+    <file>icons/问题反馈.png</file>
+    <file>icons/我的.png</file>
+    <file>icons/荷花.png</file>
+    <file>icons/主页.png</file>
+    <file>icons/结束.png</file>
+    <file>icons/暂停.png</file>
+    <file>icons/摄像头.png</file>
+    <file>icons/视频.png</file>
+    <file>icons/图片.png</file>
+    <file>icons/初始化.png</file>
+    <file>icons/模型选择.png</file>
+    <file>icons/功能栏.png</file>
+    <file>icons/水资源.png</file>
+    <file>icons/关闭.png</file>
+    <file>icons/退出.png</file>
+    <file>icons/最小化.png</file>
+    <file>icons/登录.png</file>
+    <file>icons/注册.png</file>
+    <file>icons/1.png</file>
+  </qresource>
+</RCC>

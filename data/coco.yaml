@@ -1,0 +1,7 @@
+train: water/images/train  # train images (relative to 'path') 128 images
+val: water/images/val  # val images (relative to 'path') 128 images
+#test: ./dataset/images/tests # test images (optional)
+
+# Classes
+nc: 11  # number of classes
+names: ['can','leaf','branch','grass','bottle','milk_box','plastic_bag','plastic_box','glass_bottle','bad_fruit','ball']  # class names
